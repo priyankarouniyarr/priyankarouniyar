@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka rouniyar</h1>
-<h3 align="center">Digital problem-solver, turning tech challenges into solutions with passion and simplicity.</h3>
+<h3 align="center">Passionate about solving problems and curious about learning new things in mobile app development.</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXfj-rArstlwN9WXIpwLqCSTdRTNM3TDuGNT2bn_PfRqhUXdSqPPf1aZc0lerZJ5EW1ow&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankarouniyarr&label=Profile%20views&color=0e75b6&style=flat" alt="priyankarouniyarr" /> </p>
