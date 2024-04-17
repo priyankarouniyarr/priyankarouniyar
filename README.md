@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/priyankarouniyar/](www.linkedin.com/in/priyankarouniyar/)
 
-- 📫 How to reach me **prouniyar@gmail.com**
+- 📫 How to reach me **priyankarouniyar34@gmail.com**
 
 - ⚡ Fun fact **Approach new things with an open mind |ready to learn.**
 
